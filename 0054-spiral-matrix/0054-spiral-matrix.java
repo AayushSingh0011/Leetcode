@@ -1,29 +1,27 @@
 class Solution {
-    public List<Integer> spiralOrder(int[][] matrix) {
-        List<Integer>ans =new ArrayList<>();
-        int startrow =0;
-        int startcol =0;
-        int endrow = matrix.length-1;
-        int endcol = matrix[0].length-1;
-
-        while( startrow<=endrow && startcol<=endcol ){
-            for( int j =startcol ;j<=endcol; j++){
-                ans.add(matrix[startrow][j] );}
-            for( int i =startrow+1 ;i<=endrow; i++){
-               ans.add(matrix[i][endcol] );}
-            if(startcol <endrow){   
-             for( int j =endcol-1 ;j>=startcol; j--){
-                ans.add(matrix[endrow][j] );}}
-            if( startcol<endcol){    
-             for( int i =endrow-1 ;i>=startrow+1; i--){
-                ans.add(matrix[i][startcol] );        
+    public int trap(int[] height) {
+      int left =0,right=height.length-1;
+      int leftmax =0,rightmax=0;
+      int water =0;
+      while(left<right){
+        if(height[left]<=height[right]){
+            if(height[left]>=leftmax){
+                leftmax = height[left] ;
             }
+            else{
+                water+=leftmax -height[left];
             }
-             startrow++;
-             startcol++;
-             endrow--;
-             endcol--;
+            left++;
         }
-        return ans;
+        else{
+            if(height[right]>=rightmax){
+                rightmax =height[right];}
+            else{
+                water +=rightmax -height[right];}
+            
+            right--;
+        }
+      } 
+      return water;
     }
-}    
+}
