@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/AayushSingh0011/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/AayushSingh0011/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1484-group-sold-products-by-the-date](https://github.com/AayushSingh0011/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
+| [1693-daily-leads-and-partners](https://github.com/AayushSingh0011/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1795-rearrange-products-table](https://github.com/AayushSingh0011/Leetcode/tree/master/1795-rearrange-products-table) |
 | [1907-count-salary-categories](https://github.com/AayushSingh0011/Leetcode/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
