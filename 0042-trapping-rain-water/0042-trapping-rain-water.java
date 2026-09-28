@@ -1,12 +1,27 @@
 class Solution {
-    public int removeDuplicates(int[] nums) {
-        int k =1;
-        for(int i=1;i<nums.length;i++){
-            if(nums[i]!=nums[i-1]){
-                nums[k]=nums[i];
-                k++;
+    public int trap(int[] height) {
+      int left =0,right=height.length-1;
+      int leftmax =0,rightmax=0;
+      int water =0;
+      while(left<right){
+        if(height[left]<=height[right]){
+            if(height[left]>=leftmax){
+                leftmax = height[left] ;
             }
+            else{
+                water+=leftmax -height[left];
+            }
+            left++;
         }
-        return k;
+        else{
+            if(height[right]>=rightmax){
+                rightmax =height[right];}
+            else{
+                water +=rightmax -height[right];}
+            
+            right--;
+        }
+      } 
+      return water;
     }
 }
