@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AayushSingh0011/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AayushSingh0011/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/AayushSingh0011/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/AayushSingh0011/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/AayushSingh0011/Leetcode/tree/master/0344-reverse-string) |
 | [0856-score-of-parentheses](https://github.com/AayushSingh0011/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AayushSingh0011/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -129,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AayushSingh0011/Leetcode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/AayushSingh0011/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/AayushSingh0011/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
