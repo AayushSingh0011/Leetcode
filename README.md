@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AayushSingh0011/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AayushSingh0011/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AayushSingh0011/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/AayushSingh0011/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushSingh0011/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AayushSingh0011/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AayushSingh0011/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AayushSingh0011/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AayushSingh0011/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AayushSingh0011/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/AayushSingh0011/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/AayushSingh0011/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/AayushSingh0011/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/AayushSingh0011/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushSingh0011/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushSingh0011/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/AayushSingh0011/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
