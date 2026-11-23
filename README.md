@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AayushSingh0011/Leetcode/tree/master/0013-roman-to-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AayushSingh0011/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AayushSingh0011/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushSingh0011/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/AayushSingh0011/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AayushSingh0011/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/AayushSingh0011/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/AayushSingh0011/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AayushSingh0011/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AayushSingh0011/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AayushSingh0011/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushSingh0011/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -345,6 +347,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AayushSingh0011/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AayushSingh0011/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AayushSingh0011/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AayushSingh0011/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AayushSingh0011/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
